@@ -24,7 +24,7 @@ const Info = () => {
         <td className='coll' >50L</td>
         <td className='coll'>8.3%</td>
         <td> <label>
-        <input className='radio' type="radio"/>
+        <input type="checkbox"/>
       </label></td>
       </tr> 
     </tbody>
